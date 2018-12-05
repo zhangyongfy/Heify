@@ -5,5 +5,6 @@ package com.atguigu.fanjian;/* *
 public class HeZy {
     public static void main(String[] args) {
         System.out.println("miss");
+        System.out.println("zy");
     }
 }
